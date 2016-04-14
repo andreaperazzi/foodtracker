@@ -26,6 +26,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		65808CE01CBF7C930072216B /* DialogView.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DialogView.playground; sourceTree = "<group>"; };
 		65D611051CBAABD9007BE3AC /* FoodTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FoodTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		65D611081CBAABDA007BE3AC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		65D6110A1CBAABDA007BE3AC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -80,6 +81,7 @@
 				65D611081CBAABDA007BE3AC /* AppDelegate.swift */,
 				65D6110A1CBAABDA007BE3AC /* ViewController.swift */,
 				65D6110C1CBAABDA007BE3AC /* Main.storyboard */,
+				65808CE01CBF7C930072216B /* DialogView.playground */,
 				65D6110F1CBAABDA007BE3AC /* Assets.xcassets */,
 				65D611111CBAABDA007BE3AC /* LaunchScreen.storyboard */,
 				65D611141CBAABDA007BE3AC /* Info.plist */,
@@ -390,6 +392,7 @@
 				65D611241CBAABDA007BE3AC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		65D611251CBAABDA007BE3AC /* Build configuration list for PBXNativeTarget "FoodTrackerTests" */ = {
 			isa = XCConfigurationList;
@@ -398,6 +401,7 @@
 				65D611271CBAABDA007BE3AC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
